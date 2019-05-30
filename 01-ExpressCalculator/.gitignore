@@ -1,0 +1,4 @@
+# Files not to commit
+node_modules
+.DS_STORE
+.env
